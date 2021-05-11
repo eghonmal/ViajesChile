@@ -1,0 +1,63 @@
+.body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    background-color: black;
+
+}
+
+
+
+.navbar-brand img{
+    width: 50px;
+
+}
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size:2rem;
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+.container-fluid {
+    background-color: black;
+}
+
+.cards {
+    font-size: 1rem;
+    font-family: 'Quicksand', sans-serif; color: ghostwhite;
+}
+
+.card-header {
+    align-items: center;
+    color: bg-info;
+}
+
+footer{
+    padding: 1em;
+    text-align:left;
+    width: 100%;
+    font-family: 'Nunito', sans-serif; color: aliceblue; font-weight: bolder;
+    font-size: 1rem;
+}
+
+
+.fab {
+        color:aliceblue;
+
+
+        
+}
+
+.fas {
+    text-align: center;
+}
+
+.futer{
+
+    font-weight: bolder;
+    text-align: left;
+
+}
