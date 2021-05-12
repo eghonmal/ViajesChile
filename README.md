@@ -2,4 +2,4 @@ Prueba Fundamentos desarrollo web
 
 Viajes Chile 
 
-https://github.com/eghonmal/ViajesChile
+https://eghonmal.github.io/ViajesChile/
